@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriSnap - AI Calorie Counter",
+  "description": "A motivational app for women to track their food macros and calories by simply taking a picture. It features AI-powered analysis, recipe finding, and a supportive community space.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

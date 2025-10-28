@@ -1,0 +1,22 @@
+{
+  "name": "NutriSnap - AI Calorie Counter",
+  "short_name": "NutriSnap",
+  "description": "A motivational app for women to track their food macros and calories by simply taking a picture. It features AI-powered analysis, recipe finding, and a supportive community space.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#14b8a6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 24 24' fill='none' stroke='%2314b8a6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M22 5V2l-5.89 5.89'%3E%3C/path%3E%3Ccircle cx='16.6' cy='15.89' r='3'%3E%3C/circle%3E%3Cpath d='m3.29 11.68 2.35-2.35A2.5 2.5 0 0 1 7.4 8.5h9.2a2.5 2.5 0 0 1 1.76.73l2.36 2.36a2.5 2.5 0 0 1 0 3.54l-2.36 2.35a2.5 2.5 0 0 1-1.76.74H7.4a2.5 2.5 0 0 1-1.76-.74L3.29 15.22a2.5 2.5 0 0 1 0-3.54Z'%3E%3C/path%3E%3Cpath d='M8 8.5v-3a2.5 2.5 0 1 1 5 0v3'%3E%3C/path%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 24 24' fill='none' stroke='%2314b8a6' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M22 5V2l-5.89 5.89'%3E%3C/path%3E%3Ccircle cx='16.6' cy='15.89' r='3'%3E%3C/circle%3E%3Cpath d='m3.29 11.68 2.35-2.35A2.5 2.5 0 0 1 7.4 8.5h9.2a2.5 2.5 0 0 1 1.76.73l2.36 2.36a2.5 2.5 0 0 1 0 3.54l-2.36 2.35a2.5 2.5 0 0 1-1.76.74H7.4a2.5 2.5 0 0 1-1.76-.74L3.29 15.22a2.5 2.5 0 0 1 0-3.54Z'%3E%3C/path%3E%3Cpath d='M8 8.5v-3a2.5 2.5 0 1 1 5 0v3'%3E%3C/path%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
